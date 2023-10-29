@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Caner's GitHub stats](https://github-readme-stats-five-liart-94.vercel.app/api?username=DonutMasta&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats-five-liart-94.vercel.app/api/top-langs/?username=DonutMasta&layout=compact&hide=Jupyter%20Notebook&theme=merko)
+![Top Langs](https://github-readme-stats-five-liart-94.vercel.app/api/top-langs/?username=DonutMasta&layout=compact&theme=merko)
 <!--
 **DonutMasta/DonutMasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
