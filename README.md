@@ -10,5 +10,5 @@
 </p>  
 <br> <br>
   
-![Caner's GitHub stats](https://github-readme-stats-git-master-ahmet-caner-tats-projects.vercel.app/api?username=DonutMasta&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats-git-master-ahmet-caner-tats-projects.vercel.app/api/top-langs/?username=DonutMasta&hide=Jupyter%20Notebook&layout=compact&theme=merko)
+![Caner's GitHub stats](https://github-readme-stats-git-master-ahmet-caner-tats-projects.vercel.app/api?username=AhmetCanerTat&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats-git-master-ahmet-caner-tats-projects.vercel.app/api/top-langs/?username=AhmetCanerTat&hide=Jupyter%20Notebook&layout=compact&theme=merko)
